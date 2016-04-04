@@ -11,4 +11,5 @@
 struct Constants {
     static let CatURL = "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_November_2010-1a.jpg"
     static let PuppyURL = "http://www.puppiesden.com/pics/1/poodle-puppy2.jpg"
+    static let towerURL = "http://publicdomainarchive.com/wp-content/uploads/2015/03/public-domain-images-free-stock-photos-architecture-attraction-italian.jpeg"
 }
